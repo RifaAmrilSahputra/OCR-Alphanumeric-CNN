@@ -4,7 +4,7 @@ This project builds a **Convolutional Neural Network (CNN)** model to classify h
 
 ---
 
-## ⚙️ Key Libraries
+## ⚙️ Libraries
 - TensorFlow / Keras  
 - NumPy  
 - Matplotlib  
