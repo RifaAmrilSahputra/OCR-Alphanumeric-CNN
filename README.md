@@ -31,4 +31,3 @@ The model performs well in recognizing handwritten letters and digits, with mino
 
 ## 📌 Notes
 - Input images are **grayscale** with size **64x64**.  
-- For faster training, using a **GPU** is recommended.  
