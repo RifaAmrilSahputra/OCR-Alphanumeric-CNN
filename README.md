@@ -25,7 +25,7 @@ The model is based on a simple **CNN**, including:
 - Validation accuracy: **~95%**  
 - Test accuracy: **~94%**  
 
-The model performs well in recognizing handwritten letters and digits, with minor misclassifications in similar-looking characters (e.g., `O` vs `0`, `I` vs `1`).  
+The model performs well in recognizing handwritten letters and digits, with minor misclassifications in similar-looking characters (e.g., `O` vs `0`).  
 
 ---
 
